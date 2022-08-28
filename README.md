@@ -13,7 +13,7 @@
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://github.com/ifotus/followers"><img title="Followers" src="https://img.shields.io/github/followers/ifotus?color=blue&style=flat-square"></a>
-<a href="https://github.com/thewickedkarma/creepy-mac/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ifotus/creepy-mac?color=red&style=flat-square"></a>
+<a href="https://github.com/ifotus/creepy-mac/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ifotus/creepy-mac?color=red&style=flat-square"></a>
 <a href="https://github.com/ifotus/creepy-mac/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ifotus/creepy-mac?color=red&style=flat-square"></a>
 <a href="https://github.com/ifotus/creepy-mac/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ifotus/creepy-mac?label=Watchers&color=blue&style=flat-square"></a>
 </p>
