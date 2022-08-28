@@ -66,7 +66,7 @@ if [[ $c == 2 ]]
         printf "\e[1;36m[\e[0m\e[1;77m*\e[0m\e[1;36m]\e[0m\e[1;77m Please enter your choice: \e[0m\n"
         printf "\e[1;31m[\e[0m\e[1;77m!\e[0m\e[1;31m]\e[0m\e[1;77m Currently available format:  \e[0m\n\n"
         printf "\e[1;31m[\e[0m\e[1;77m->\e[0m\e[1;31m]\e[0m\e[1;77m 1 : 00:FA:CE:DE:AD:00  \e[0m\n"
-       read  -p $'\n\e[1;36m\e[0m\e[1;77m\e[0m\e[1;36m ┌─[ Your specifie MAC address:]─[~]
+       read  -p $'\n\e[1;36m\e[0m\e[1;77m\e[0m\e[1;36m ┌─[ Choose an option:]─[~]
  └──╼ ~ ' x
             if [[ $x == 1 ]]
                then
